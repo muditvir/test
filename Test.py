@@ -1,10 +1,19 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[17]:
 
 
-print("This is a test file")
+ans=input("are u trying?")
+
+
+# In[18]:
+
+
+if ans=="yes":
+    print("keep going")
+else:
+    print("this isn't good")
 
 
 # In[ ]:
