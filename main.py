@@ -10,7 +10,7 @@ ans=input("are u trying?")
 # In[18]:
 
 
-if ans=="y":
+if ans=="Y":
     print("keep going")
 else:
     print("this isn't good")
